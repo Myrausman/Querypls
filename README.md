@@ -53,6 +53,8 @@ Querypls is a web application that provides an interactive chat interface, simpl
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+## Contributors
 
 Made by [samadpls](https://github.com/samadpls/) & [myrausman](https://github.com/Myrausman)
 
+---
